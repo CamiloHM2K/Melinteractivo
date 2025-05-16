@@ -18,7 +18,7 @@ El propósito principal de esta plataforma es proporcionar a los turistas una he
 - Obtener información relevante sobre cada destino
 - Mejorar su experiencia turística en la zona
 
-## 🌐 Tecnologías Utilizadas (Si el proyecto escala mas, se propone utilizar Base de datos y Frameworks
+## 🌐 Tecnologías Utilizadas (Si el proyecto requiere escalar, se propone utilizar Base de datos y Frameworks)
 
 - HTML5
 - CSS3
